@@ -1,4 +1,4 @@
-package Hw4;
+package hw4;
 
 public class CountHighestScore {
     public static void main(String[] args) {

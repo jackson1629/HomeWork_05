@@ -1,4 +1,4 @@
-package Hw;
+package hw;
 
 import static java.lang.Math.pow;
 

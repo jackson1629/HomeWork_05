@@ -1,4 +1,4 @@
-package Hw4;
+package hw4;
 
 import java.util.Stack;
 

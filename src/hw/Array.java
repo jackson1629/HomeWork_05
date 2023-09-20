@@ -1,8 +1,6 @@
-package Hw;
+package hw;
 
 import java.util.Random;
-
-import static java.lang.Math.random;
 
 public class Array {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Hw4;
+package hw4;
 
 public class ElementAvg {
     public static void main(String[] args) {
