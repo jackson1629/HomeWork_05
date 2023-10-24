@@ -12,7 +12,7 @@ public class GenAuthCode {
 
         for (int i = 0; i < 8; i++){
             stringBuilder.append(charArray.charAt(randomNumber.nextInt(charArray.length())));
-        }//charAt(index) : 字串中的第 index 字元。也就是把產生的亂數作為字元陣列的索引值，加入"字串處理物件"裡面
+        }//charAt(index) : 字串中的第 index 字元。也就是把產生的亂數作為字元陣列的索引值，搜尋字元陣列charArray的第index個字元，將其加入"字串處理物件"裡面
 
         return stringBuilder.toString();//轉為字串，回傳
     }
